@@ -1,0 +1,13 @@
+.heading {
+  text-align: center;
+  font-family: 'Modak', cursive;
+  font-size: 50px;
+  font-weight: 100;
+}
+#srt {
+  height: 25ch; 
+  width: 30ch;
+  border-style:solid;
+  border-color:black;
+  margin-left: 50px;
+}
